@@ -96,11 +96,30 @@ export const Footer: React.FC<FooterProps> = ({
               className="inline-flex items-center gap-2 px-3 py-2 rounded-xl bg-slate-900 border border-slate-800 text-emerald-400 hover:border-emerald-500/50 transition-colors text-xs font-semibold cursor-pointer"
             >
               <MessageCircle className="w-4 h-4" />
-              <span>واتساب لجنة الدفعة (01223589211)</span>
+              <span>(01223589211)</span>
+            </a>
+            <a
+              href="https://wa.me/201097306587?text=%D8%A7%D8%B3%D8%AA%D9%81%D8%B3%D8%A7%D8%B1%20%D8%A8%D8%AE%D8%B5%D9%88%D8%B5%20%D9%87%D9%88%D8%AF%D9%8A%20%D9%86%D8%B8%D9%85%20%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA"
+              target="_blank"
+              rel="noreferrer"
+              className="inline-flex items-center gap-2 px-3 py-2 rounded-xl bg-slate-900 border border-slate-800 text-emerald-400 hover:border-emerald-500/50 transition-colors text-xs font-semibold cursor-pointer"
+            >
+              <MessageCircle className="w-4 h-4" />
+              <span>(01097306587)</span>
+            </a>
+            <a
+              href="https://wa.me/201092644741?text=%D8%A7%D8%B3%D8%AA%D9%81%D8%B3%D8%A7%D8%B1%20%D8%A8%D8%AE%D8%B5%D9%88%D8%B5%20%D9%87%D9%88%D8%AF%D9%8A%20%D9%86%D8%B8%D9%85%20%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA"
+              target="_blank"
+              rel="noreferrer"
+              className="inline-flex items-center gap-2 px-3 py-2 rounded-xl bg-slate-900 border border-slate-800 text-emerald-400 hover:border-emerald-500/50 transition-colors text-xs font-semibold cursor-pointer"
+            >
+              <MessageCircle className="w-4 h-4" />
+              <span> (01092644741)</span>
             </a>
           </div>
-
         </div>
+
+        
 
         {/* Bottom copyright */}
         <div className="pt-6 flex flex-col sm:flex-row items-center justify-between gap-4 text-[11px] text-slate-500">
