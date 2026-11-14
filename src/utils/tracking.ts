@@ -149,7 +149,7 @@ export function saveOrderLocally(order: any) {
 // ==========================================
 export async function sendOrderToGoogleSheet(orderData: any, paymentDetails?: PaymentDetails) {
   const SCRIPT_URL =
-    'https://script.google.com/macros/s/AKfycbx5EB9UJIPS7I2jXfvpa4GBX7-NAyPQ_cfHCAdpvdOCHN2FoKkDgtQucpJJwPdCSWujbw/exec';
+    'https://script.google.com/macros/s/AKfycbznDZik2-7ol45mhKTdpQLMniYr5hNIQEQlTgrKBsmlNSJ-KSOBJR0kAZIZ27O4jFijuw/exec';
 
   const MAX_RETRIES = 3;
   const TIMEOUT_MS = 15000; // 15 ثانية لكل محاولة
