@@ -33,7 +33,7 @@ export default function App() {
   };
 
   return (
-    <div className="min-h-screen bg-[#0F172A] text-slate-100 flex flex-col font-sans selection:bg-[#38BDF8]/30 selection:text-[#38BDF8]">
+    <div className="min-h-screen w-full max-w-full overflow-x-hidden bg-[#0F172A] text-slate-100 flex flex-col font-sans selection:bg-[#38BDF8]/30 selection:text-[#38BDF8]">
       {/* Top Header */}
       <Header
         onOpenSizeGuide={() => setIsSizeGuideOpen(true)}
@@ -42,7 +42,7 @@ export default function App() {
       />
 
       {/* Main Landing Page Content */}
-      <main className="flex-1">
+      <main className="flex-1 w-full max-w-full overflow-x-hidden">
         {/* Hero Section with Dedicated Video Player & Countdown */}
         <HeroSection
           onScrollToOrder={handleScrollToOrder}
