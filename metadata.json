@@ -1,0 +1,6 @@
+{
+  "name": "Senior IS Hoodies Pre-Order - Al-Sallab Institute",
+  "description": "Official pre-order landing page for Information Systems Senior Class 2027 hoodies at Al-Sallab Institute with dynamic pricing, team discounts, and Google Sheets integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
