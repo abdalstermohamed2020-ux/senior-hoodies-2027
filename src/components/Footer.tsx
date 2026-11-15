@@ -78,7 +78,7 @@ export const Footer: React.FC<FooterProps> = ({
             <ul className="space-y-1.5 text-[11px] text-slate-400">
               <li>• الطلب الفردي: 675 ج.م للقطعة</li>
               <li>• طلب التيم (5+ أفراد): 640 ج.م للقطعة</li>
-              <li>• طباعة سلك اسكرين وش وظهر فقط</li>
+              <li>• طباعة DTF اسكرين وش وظهر </li>
               <li>• الاستلام بمقر المعهد بواسطة كود التتبع التسلسلي</li>
             </ul>
           </div>
