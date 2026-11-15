@@ -76,8 +76,8 @@ export const Footer: React.FC<FooterProps> = ({
           <div className="space-y-2">
             <h4 className="text-white font-bold text-xs mb-3">سياسة الحجز والاستلام</h4>
             <ul className="space-y-1.5 text-[11px] text-slate-400">
-              <li>• الطلب الفردي: 600 ج.م للقطعة</li>
-              <li>• طلب التيم (5+ أفراد): 550 ج.م للقطعة</li>
+              <li>• الطلب الفردي: 675 ج.م للقطعة</li>
+              <li>• طلب التيم (5+ أفراد): 640 ج.م للقطعة</li>
               <li>• طباعة سلك اسكرين وش وظهر فقط</li>
               <li>• الاستلام بمقر المعهد بواسطة كود التتبع التسلسلي</li>
             </ul>
